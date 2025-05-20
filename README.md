@@ -7,10 +7,10 @@
 ## 📌 Program 1: List Interface
 
 ### 1. ListInterfaceDemo
-- **ListInterfaceDemo Output =>**(https://github.com/4AL22CS098/java_programs/blob/main/program_1_A_output.jpg)
+- **ListInterfaceDemo Output =>**(https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-a_ListInterfaceDemo/program_1_A_output.jpg)
 
 ### 2. Array_List  
-- **ColorSearch Output =>** (https://github.com/4AL22CS098/java_programs/blob/main/arraylist1.jpg)  
+- **ColorSearch Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-barray_list/arraylist1.jpg)  
 - **RemoveColors Output =>** (https://github.com/4AL22CS098/java_programs/blob/main/arraylist2.jpg)  
 - **SortColors Output =>** (https://github.com/4AL22CS098/java_programs/blob/main/arraylist3.jpg)  
 - **SubListExample Output =>** (https://github.com/4AL22CS098/java_programs/blob/main/arraylist4.jpg)  
