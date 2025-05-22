@@ -11,3 +11,4 @@
 ### 8. StringExercise_C  
 - **CapitalizeWords Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3c-String_Exercise/3cq1_output.png) 
 - **Truncate Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3c-String_Exercise/3cq2_output.png)  
+- **isNumeric Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3c-String_Exercise/3cq3_output.png) 
