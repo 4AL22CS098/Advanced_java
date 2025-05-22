@@ -8,7 +8,7 @@
 - **ReverseString Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3b-String_Exercise/3bq3_output.png)
 - **PalindromeCheck Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3b-String_Exercise/3bq4_output.png)
 - **RemoveWhiteSpace Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3b-String_Exercise/3bq5_output.png)   
-### 8. StringExercise_C  
+### 3c. StringExercise_C  
 - **CapitalizeWords Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3c-String_Exercise/3cq1_output.png) 
 - **Truncate Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3c-String_Exercise/3cq2_output.png)  
 - **isNumeric Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-3-String_operation/3c-String_Exercise/3cq3_output.png) 
