@@ -3,4 +3,7 @@
 ### 21. Insert_Coffee  
 - **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-8-Coffee-Employee_jdbc/8a-insert_coffee/8a_output.png)  
 ### 22. Update_Coffee  
-- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-8-Coffee-Employee_jdbc/8b-Update_Coffee/8b_output.png)  
+- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-8-Coffee-Employee_jdbc/8b-Update_Coffee/8b_output.png)
+ ### 23. append_Employee  
+- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-8-Coffee-Employee_jdbc/8c-append_Employee/8c_output.png)  
+
