@@ -6,5 +6,5 @@
 - **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-9-Coffee-Employee_jdbc/9b-Query_Coffee/9b_output.png)  
 ### 9c. append_Report  
 - **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-9-Coffee-Employee_jdbc/9c-append/9c_output.png)  
-### 28. Delete_Employee  
+### 9d. Delete_Employee  
 - **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-9-Coffee-Employee_jdbc/9d-delete_emp/9d_output.png)  
